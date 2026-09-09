@@ -1,0 +1,15 @@
+gene,protein_change,hgvs_c,label,review,uniprot,esm_score,category,am_pathogenicity,am_class
+TP53,p.Arg273His,c.818G>A,Pathogenic,Expert panel,P04637,-5.015889406204224,Pathogenic,0.9889,likely_pathogenic
+TP53,p.Val272Met,c.814G>A,Pathogenic,Expert panel,P04637,-3.250257134437561,Pathogenic,0.9572,likely_pathogenic
+TP53,p.Arg283Pro,c.848G>C,Pathogenic,Expert panel,P04637,-6.329448461532593,Pathogenic,0.9928,likely_pathogenic
+PTEN,p.Asp24His,c.70G>C,Pathogenic,Expert panel,P60484,-9.485004738671705,Pathogenic,0.9999,likely_pathogenic
+PTEN,p.Thr131Ile,c.392C>T,Pathogenic,Expert panel,P60484,-8.949330678209662,Pathogenic,0.9999,likely_pathogenic
+PTEN,p.Arg173Cys,c.517C>T,Pathogenic,Expert panel,P60484,-8.650784198194742,Pathogenic,0.9981,likely_pathogenic
+BRCA1,p.Gly1788Val,c.5363G>T,Pathogenic,Expert panel,P38398,-8.40875630825758,Pathogenic,0.9249,likely_pathogenic
+BRCA1,p.Leu1786Pro,c.5357T>C,Pathogenic,Expert panel,P38398,-5.2874755859375,Pathogenic,0.9609,likely_pathogenic
+BRCA1,p.Phe1761Ser,c.5282T>C,Pathogenic,Expert panel,P38398,-9.102365732192993,Pathogenic,0.9848,likely_pathogenic
+POFUT1,p.Met24Leu,c.70A>T,Likely benign,One star,Q9H488,3.826659679412842,Benign,0.0644,likely_benign
+POFUT1,p.Leu322Phe,c.964C>T,Benign,One star,Q9H488,-2.0838351249694824,Benign,0.0772,likely_benign
+POFUT1,p.Asp348Asn,c.1042G>A,Benign,One star,Q9H488,-2.3990718126296997,Benign,0.1737,likely_benign
+VSX1,p.Asp144Glu,c.432C>G,Benign/Likely benign,Multiple Submitters,Q9NZR4,-0.22186815738677979,Benign,0.1197,likely_benign
+RBBP8NL,p.Pro539Thr,c.1615C>A,Unknown,not_in_clinvar,Q8NC74,-1.3933418989181519,Unknown,0.0889,likely_benign
